@@ -1,1 +1,11 @@
-# dinu-3
+# dinu-3<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Test Website</title>
+    <meta name="description" content="මෙය මගේ පළවෙනි test website එකයි, GitHub Pages මගින් host කර ඇත.">
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>මගේ පළවෙනි GitHub Pages website එක.</p>
+</body>
+</html>
